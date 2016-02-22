@@ -1,8 +1,5 @@
-# ![logo](screens/HEADER_README.jpg)
-Mapas Arma 3
+# ![[Arma Series Maps](screens/pic.jpg)
 
-# ![logo](images/MODS_README.jpg)
-Todos os mods abaixo são necessários para a campanha.
 - [Kholm](http://www.armaholic.com/page.php?id=30263#comments)
 - [Imrali Island](http://www.armaholic.com/page.php?id=26853)
 - [Diaoyu Islands](http://www.armaholic.com/page.php?id=21134)
@@ -11,3 +8,4 @@ Todos os mods abaixo são necessários para a campanha.
 - [Southern Wardak Province, Afghanistan](http://www.armaholic.com/page.php?id=28535)
 - [Dependência](http://www.armaholic.com/page.php?id=26806)
 - [Kunduz, Afghanistan](http://www.armaholic.com/page.php?id=27882)
+- [N'Ziwasogo](http://www.armaholic.com/page.php?id=24455)
