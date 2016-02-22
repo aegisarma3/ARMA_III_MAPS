@@ -1,4 +1,4 @@
-# ![[Arma Series Maps](screens/pic.jpg)
+# ![Arma Series Maps](screens/pic.jpg)
 
 - [Kholm](http://www.armaholic.com/page.php?id=30263#comments)
 - [Imrali Island](http://www.armaholic.com/page.php?id=26853)
