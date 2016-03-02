@@ -13,6 +13,7 @@ Mapas desenvolvidos pela comunidade:
 - [Mogadishu](http://www.armaholic.com/page.php?id=29494)
 - [N'Ziwasogo](http://www.armaholic.com/page.php?id=24455)
 - [NAM](http://www.armaholic.com/page.php?id=29355)
+- [Napf Island](http://www.armaholic.com/page.php?id=30518)
 - [Orshanets](http://www.armaholic.com/page.php?id=26807)
 - [Panthera Island](http://www.armaholic.com/page.php?id=27416)
 - [Santa Catalina Island](http://www.armaholic.com/page.php?id=29035)
