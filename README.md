@@ -1,10 +1,13 @@
 # ![Arma Series Maps](screens/pic.jpg)
 Mapas desenvolvidos pela comunidade:
 
+- [Al Rayak](http://www.armaholic.com/page.php?id=28564)
 - [Atlantis](http://www.armaholic.com/page.php?id=29022)
 - [Bozcaada](http://www.armaholic.com/page.php?id=29580)
 - [Kholm](http://www.armaholic.com/page.php?id=30263#comments)
+- [Dariyah](http://www.armaholic.com/page.php?id=25949)
 - [Diaoyu Islands](http://www.armaholic.com/page.php?id=21134)
+- [Gunkizli](http://www.armaholic.com/page.php?id=29527)
 - [Hindu Kush](http://www.armaholic.com/page.php?id=28913)
 - [Irmali Island](http://www.armaholic.com/page.php?id=26853)
 - [Isla Duala](http://www.armaholic.com/page.php?id=27699)
@@ -18,4 +21,5 @@ Mapas desenvolvidos pela comunidade:
 - [Orshanets](http://www.armaholic.com/page.php?id=26807)
 - [Panthera Island](http://www.armaholic.com/page.php?id=27416)
 - [Santa Catalina Island](http://www.armaholic.com/page.php?id=29035)
+- [Song Bin Tanh](http://www.armaholic.com/page.php?id=29790)
 - [Southern Wardak Province, Afghanistan](http://www.armaholic.com/page.php?id=28535)
