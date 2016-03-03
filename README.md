@@ -8,6 +8,7 @@ Mapas desenvolvidos pela comunidade:
 - [Hindu Kush](http://www.armaholic.com/page.php?id=28913)
 - [Irmali Island](http://www.armaholic.com/page.php?id=26853)
 - [Isla Duala](http://www.armaholic.com/page.php?id=27699)
+- [Kalu Khan](http://www.armaholic.com/page.php?id=26034)
 - [Koplic Island](http://www.armaholic.com/page.php?id=21990)
 - [Kunduz, Afghanistan](http://www.armaholic.com/page.php?id=27882)
 - [Mogadishu](http://www.armaholic.com/page.php?id=29494)
