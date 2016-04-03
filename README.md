@@ -2,6 +2,7 @@
 Mapas desenvolvidos pela comunidade:
 
 - [Al Rayak](http://www.armaholic.com/page.php?id=28564)
+- [Angel Island](http://www.armaholic.com/page.php?id=29018)
 - [Atlantis](http://www.armaholic.com/page.php?id=29022)
 - [Bozcaada](http://www.armaholic.com/page.php?id=29580)
 - [Clafghan](http://www.armaholic.com/page.php?id=15580)
